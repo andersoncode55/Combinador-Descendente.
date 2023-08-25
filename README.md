@@ -5,6 +5,7 @@
 * [⚠️ Estrutura do HTML](#-Estrutura-do-HTML)
 * [⚠️ Sobre o Projeto](#-Sobre-o-Projeto)
 * [📋 Como Usar](#-Exemplos-de-seletores-de-ID)
+* [💻 Combinadores Descendentes](#-Combinadores-Descendentes)
 * [📋 Funcionalidades](#-Funcionalidades.)
 * [📝 Contribuições](#-Contribuições)
 * [📍Lincença](#-Lincença)
@@ -50,6 +51,19 @@ Neste projeto, exploramos a utilização de combinadores descendentes em HTML E 
   <li>Exibição de uma lista de tarefas com estilização cuidadosamente aplicada.</li>
   <li>Demonstração clara de como usar combinadores de seletores para CSS e manter o código com consistência visual</li>
 </ul>
+
+
+
+
+
+
+## 💻 Combinadores Descendentes
+No arquivo 'style.css', demonstramos o combinadores descendentes para aplicar estilos consistentes ao index.html.
+
+![Capturar_2023_08_25_20_28_36_549](https://github.com/andersoncode55/Combinador-Descendente./assets/61977421/ee1add32-411e-4128-bf1a-f84c23135664)
+
+
+
 
 
 
