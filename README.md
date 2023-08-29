@@ -4,7 +4,7 @@
 * [🎯 Objetivo](#-objetivo)
 * [⚠️ Estrutura do HTML](#-Estrutura-do-HTML)
 * [⚠️ Sobre o Projeto](#-Sobre-o-Projeto)
-* [📋 Como Usar](#-Exemplos-de-seletores-de-ID)
+* [📋 Como Usar](#-Como-Usar)
 * [💻 Combinadores Descendentes](#-Combinadores-Descendentes)
 * [📋 Funcionalidades](#-Funcionalidades.)
 * [📝 Contribuições](#-Contribuições)
